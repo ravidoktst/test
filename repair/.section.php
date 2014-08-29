@@ -1,0 +1,5 @@
+<?
+$sSectionName = "Ремонт";
+$arDirProperties = array(
+);
+?>

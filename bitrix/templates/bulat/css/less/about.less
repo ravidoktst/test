@@ -1,0 +1,84 @@
+.about{
+
+  font-size: 0; //для удаления пробелов между inline-block елементами
+
+  .image{
+	.inline-block;
+	position: relative;
+	vertical-align: top;
+	max-height: 240px;
+	overflow: hidden;
+	.border-radius(5px);
+	.box-shadow(0 2px 2px 0 #b7b9bd);
+
+	&:first-of-type{
+		margin-right: 10px;
+	}
+  }
+
+  .text{
+	position: relative;
+	margin:45px 0 75px 0;
+	font:14px/18px Arial;
+	color:@dark-gray-text-color;
+
+	p{
+	  margin-bottom: 25px;
+	}
+
+	blockquote{
+	  display: block;
+	  position: relative;
+	  margin:27px 0;
+	  padding:23px;
+	  background-color: #e7e9ed;
+	  border:1px solid @border-color;
+	  .border-radius(5px);
+	  font:italic 16px/16px Arial;
+	  color:@blue-text-color;
+	  overflow: hidden;
+
+	  	&:before{
+		  .pseudo-element();
+		  position: relative;
+		  float:left;
+		  width:23px;
+		  height:17px;
+		  margin-right:15px;
+		  .sprite(@sprite_path, -117px, -75px);
+		}
+	}
+  }
+
+  .sertificates{
+	position: relative;
+	margin-bottom: 50px;
+
+	.title{
+	  position: relative;
+	  margin-bottom: 30px;
+	  font:bold 16px/16px Arial;
+	  color:@blue-text-color;
+	}
+
+	ul.bxslider{
+
+	  li{
+		display: block;
+		height: 160px;
+		background-color: #fff;
+		padding:13px;
+		.border-radius(5px);
+		.box-shadow(0 2px 2px 0 #b7b9bd);
+
+		img{
+		  display: block;
+		  position: relative;
+		  min-height: 100%;
+		  margin:0 auto;
+		}
+	  }
+	}
+  }
+
+}

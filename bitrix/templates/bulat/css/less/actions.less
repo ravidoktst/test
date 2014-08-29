@@ -1,0 +1,149 @@
+.actions-list{
+
+	ul{
+		font-size: 0;
+	}
+
+	li{
+		.inline-block;
+		position: relative;
+		vertical-align: top;
+		width:(@content-with-padding-width - 20px) / 2;
+		height:365px;
+		margin-right: 20px;
+		margin-bottom: 45px;
+
+
+		&:nth-child(2n){
+			margin-right: 0;
+		}
+
+		a{
+			text-decoration: none;
+		}
+
+		&:hover{
+
+			.name{
+				text-decoration: none;
+			}
+
+		}
+	}
+
+
+
+	.name{
+	   position: relative;
+		margin:30px 0 15px 0;
+		font:bold 16px/18px Arial;
+		color:@blue-text-color;
+		text-decoration: underline;
+	}
+
+	.text{
+		position: relative;
+		height: 55px;
+		overflow: hidden;
+		font:14px/17px Arial;
+		color:@dark-gray-text-color;
+	}
+
+
+} //actions
+
+.action-image{
+	position: relative;
+	height:234px;
+	overflow: hidden;
+	.border-radius(5px);
+	.box-shadow(0 3px 3px 0 #b7b9bd);
+
+	&:before{
+		.pseudo-element();
+		content:"Акция";
+		width:113px;
+		height: 53px;
+		top:25px;
+		left:0px;
+		.sprite(@sprite_path, 0, -35px);
+		z-index: 2;
+		font:bold 16px/53px Arial;
+		color:#ff0000;
+		text-transform: uppercase;
+		text-indent: 21px;
+	}
+
+	img{
+		display: block;
+		position: relative;
+		min-width: 100%;
+		top:50%;
+		left:50%;
+		.translate(-50%, -50%);
+	}
+
+	.action-title, .price{
+		display: block;
+		position: absolute;
+		width:263px;
+		right:0;
+	}
+
+	.price{
+		height:44px;
+		bottom:24px;
+		background-color: rgba(255, 0, 0, 0.7);
+		font:16px/44px Arial;
+		color:#fff;
+		text-indent: 25px;
+
+		span{
+			font-size: 33px;
+			font-weight: bold;
+		}
+	}
+
+	.action-title{
+		.box-sizing(border-box);
+		padding:18px 25px;
+		bottom:70px;
+		background-color: rgba(0, 0, 0, 0.7);
+		font:16px/21px Arial;
+		color:#fff;
+		text-transform: uppercase;
+	}
+}
+
+.action-detail{
+
+	.action-image{
+		width:459px;
+	}
+
+	.action-name{
+		position: relative;
+		margin:30px 0 20px 0;
+		font:bold 16px/21px Arial;
+		color:@blue-text-color;
+	}
+
+	.text{
+		position: relative;
+		font:14px/18px Arial;
+		color:@dark-gray-text-color;
+	}
+
+  	table.round-header{
+
+	  	tbody td{
+		  text-decoration: underline;
+		}
+	}
+
+
+
+	.feedback-form{
+		margin:0 auto 45px auto;
+	}
+}

@@ -1,0 +1,97 @@
+.contacts{
+
+
+  .sub-title{
+	position: relative;
+	margin:25px 0;
+	font:bold 16px/16px Arial;
+	color:@blue-text-color;
+  }
+
+  table.contacts-data{
+	position: relative;
+
+	td{
+	  height: 35px;
+	  vertical-align: top;
+	  padding-right: 20px;
+
+	  &:first-child{
+		font:bold 16px/16px Arial;
+		color:@blue-text-color;
+	  }
+
+	  &:last-child{
+		font:14px/14px Arial;
+		color:@dark-gray-text-color;
+	  }
+
+	  a{
+		font:inherit;
+		color:@blue-text-color;
+
+		&:hover{
+		  text-decoration: none;
+		}
+	  }
+
+	}
+
+  }
+
+  table.details{
+	position: relative;
+	margin-top: 20px;
+
+	thead td{
+		padding-bottom: 15px;
+		font: bold 16px/16px Arial;
+		color: @blue-text-color;
+	}
+
+	tbody td{
+	  height: 25px;
+	  vertical-align: top;
+	  font:14px/14px Arial;
+	  color:@dark-gray-text-color;
+
+	  &:first-child{
+		padding-right: 40px;
+	  }
+
+	}
+  }
+
+  hr{
+	position: relative;
+	margin: 40px 0 0 0;
+	border:none;
+	height: 1px;
+	background-color: #c8d0d9;
+  }
+
+  .feedback-form{
+	position: absolute;
+	top:60px;
+	right:0;
+  }
+
+  .map-wrapper{
+	position: relative;
+	width:100%;
+	height:445px;
+	margin-bottom: 45px;
+	background-color: #fff;
+	.border-radius(5px);
+	.box-shadow(0 2px 3px #d9dadb);
+	overflow: hidden;
+
+	.map{
+		position: relative;
+	  width:909px;
+	  height: 419px;
+	  background-color: transparent;
+	  margin: 12px auto 0 auto;
+	}
+  }
+}

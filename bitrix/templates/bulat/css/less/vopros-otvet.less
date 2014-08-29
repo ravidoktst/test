@@ -1,0 +1,86 @@
+.vopros-otvet{
+
+
+	li{
+		display:block;
+		position: relative;
+		margin-bottom: 20px;
+		border-bottom:1px solid #bfbfbf;
+
+		&:before{
+			.pseudo-element();
+			width:35px;
+			height:35px;
+			.sprite(@sprite_path, -117px, -35px);
+		}
+
+		&.open{
+			border-bottom:none;
+
+			&:before{
+				background-position: -158px -35px;
+			}
+
+			.vopros{
+				color:@dark-gray-text-color;
+			}
+		}
+
+	}
+
+	.user-name{
+		position: relative;
+		margin:0 0 7px 50px;
+		font:11px/11px Arial;
+		color:@light-gray-text-color;
+	}
+
+	.vopros{
+		position: relative;
+		max-width: 95%;
+		margin:0 0 20px 50px;
+		font:14px/18px Arial;
+		color:@blue-text-color;
+		text-decoration: underline;
+		cursor:pointer;
+
+		&:hover{
+			text-decoration: none;
+		}
+	}
+
+	.otvet{
+		display: none;
+	   position: relative;
+		.box-sizing(border-box);
+		margin:20px 0 0 0;
+		padding: 20px;
+		background-color: #fff;
+		border:1px solid #c8d0d9;
+		.border-radius(5px);
+
+		.title{
+			position: relative;
+			margin:0 0 15px 0;
+			font:bold 16px/16px Arial;
+			color:@blue-text-color;
+		}
+
+		.text{
+			position: relative;
+			font:14px/21px Arial;
+			color:@dark-gray-text-color;
+		}
+
+	}
+
+	.feedback-form{
+		margin:45px auto 100px auto;
+
+		input[type=submit]{
+			width:111px;
+		}
+	}
+
+
+}

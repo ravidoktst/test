@@ -1,0 +1,82 @@
+2014-07-11 09:44:47 -  - exec CUpdateClient::GetUpdatesList
+2014-07-11 09:44:47 -  - exec CUpdateClient::CollectRequestData
+2014-07-11 09:44:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.0&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU
+2014-07-11 09:44:47 -  - exec CUpdateClient::GetHTTPPage
+2014-07-11 09:44:47 -  - TIME GetUpdatesList(request) 0.181 sec
+2014-07-11 09:44:47 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:26:51 -  - exec CUpdateClient::GetUpdatesList
+2014-07-14 09:26:51 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:26:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.0&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU
+2014-07-14 09:26:51 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:26:52 -  - TIME GetUpdatesList(request) 0.278 sec
+2014-07-14 09:26:52 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:27:04 -  - exec CUpdateClient::GetUpdatesList
+2014-07-14 09:27:04 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:27:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.0&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU
+2014-07-14 09:27:04 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:27:05 -  - TIME GetUpdatesList(request) 0.36 sec
+2014-07-14 09:27:05 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:27:14 -  - exec CUpdateClient::UpdateUpdate
+2014-07-14 09:27:14 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:27:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.0&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&query_type=updateupdate
+2014-07-14 09:27:14 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:27:16 -  - TIME UpdateUpdate(request) 2.261 sec
+2014-07-14 09:27:16 -  - exec CUpdateClient::UnGzipArchive
+2014-07-14 09:27:16 -  - TIME UnGzipArchive 0.009 sec
+2014-07-14 09:27:16 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:27:16 - CURV - Update updated successfully!
+2014-07-14 09:27:16 - UPD_SUCCESS - Update system updated
+2014-07-14 09:27:16 -  - exec CUpdateClient::GetUpdatesList
+2014-07-14 09:27:16 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:27:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N
+2014-07-14 09:27:16 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:27:17 -  - TIME GetUpdatesList(request) 0.49 sec
+2014-07-14 09:27:17 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:47:42 -  - exec CUpdateClient::ActivateLicenseKey
+2014-07-14 09:47:42 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:47:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&query_type=activate
+2014-07-14 09:47:42 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:47:42 -  - TIME ActivateLicenseKey(request) 0.349 sec
+2014-07-14 09:47:42 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:47:42 - CUALK - License key activated successfully!
+2014-07-14 09:47:42 - UPD_SUCCESS - Licence activated
+2014-07-14 09:47:42 -  - exec CUpdateClient::GetUpdatesList
+2014-07-14 09:47:42 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:47:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N
+2014-07-14 09:47:42 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:47:43 -  - TIME GetUpdatesList(request) 0.639 sec
+2014-07-14 09:47:43 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:47:50 -  - exec CUpdateClient::RegisterVersion
+2014-07-14 09:47:50 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:47:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&query_type=register
+2014-07-14 09:47:50 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:47:50 -  - TIME RegisterVersion(request) 0.568 sec
+2014-07-14 09:47:50 -  - exec CUpdateClient::UnGzipArchive
+2014-07-14 09:47:50 -  - TIME UnGzipArchive 0.001 sec
+2014-07-14 09:47:50 -  - exec CUpdateClient::ParseServerData
+2014-07-14 09:47:50 - CURV - Product registered successfully!
+2014-07-14 09:47:50 - UPD_SUCCESS - Registered
+2014-07-14 09:48:53 -  - exec CUpdateClient::GetUpdatesList
+2014-07-14 09:48:53 -  - exec CUpdateClient::CollectRequestData
+2014-07-14 09:48:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.forsagc.ru&CHHB=bulat-vorota.forsagc.ru&CSAB=127.0.4.60&CANGZIP=Y&CLIENT_PHPVER=5.3.28&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N
+2014-07-14 09:48:53 -  - exec CUpdateClient::GetHTTPPage
+2014-07-14 09:48:53 -  - TIME GetUpdatesList(request) 0.638 sec
+2014-07-14 09:48:53 -  - exec CUpdateClient::ParseServerData
+2014-07-18 11:17:24 -  - exec CUpdateClient::GetUpdatesList
+2014-07-18 11:17:24 -  - exec CUpdateClient::CollectRequestData
+2014-07-18 11:17:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.ru&CHHB=bulat-vorota.ru&CSAB=10.1.63.161&CANGZIP=Y&CLIENT_PHPVER=5.3.13&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N
+2014-07-18 11:17:24 -  - exec CUpdateClient::GetHTTPPage
+2014-07-18 11:17:25 -  - TIME GetUpdatesList(request) 0.891 sec
+2014-07-18 11:17:25 -  - exec CUpdateClient::ParseServerData
+2014-08-13 09:55:59 -  - exec CUpdateClient::GetUpdatesList
+2014-08-13 09:55:59 -  - exec CUpdateClient::CollectRequestData
+2014-08-13 09:55:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.ru&CHHB=bulat-vorota.ru&CSAB=10.1.63.161&CANGZIP=Y&CLIENT_PHPVER=5.3.13&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N
+2014-08-13 09:55:59 -  - exec CUpdateClient::GetHTTPPage
+2014-08-13 09:56:00 -  - TIME GetUpdatesList(request) 0.757 sec
+2014-08-13 09:56:00 -  - exec CUpdateClient::ParseServerData
+2014-08-28 15:57:01 -  - exec CUpdateClient::GetUpdatesList
+2014-08-28 15:57:01 -  - exec CUpdateClient::CollectRequestData
+2014-08-28 15:57:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=14.5.1&VERSION=14.5.0&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=8&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bulat-vorota.ru&CHHB=bulat-vorota.ru&CSAB=10.1.63.161&CANGZIP=Y&CLIENT_PHPVER=5.3.13&stable=Y&bitm_main=14.5.0&bitm_scale=14.5.0&bitm_currency=14.0.0&bitm_perfmon=14.0.1&bitm_photogallery=14.5.1&bitm_socialservices=14.0.4&bitm_report=14.1.1&bitm_subscribe=14.5.0&bitm_iblock=14.5.0&bitm_highloadblock=14.0.6&bitm_eshopapp=14.0.0&bitm_mobileapp=14.0.3&bitm_form=14.0.1&bitm_vote=14.0.2&bitm_clouds=14.5.0&bitm_security=14.5.0&bitm_search=14.5.0&bitm_bitrixcloud=14.0.4&bitm_blog=14.5.0&bitm_compression=14.0.0&bitm_forum=14.5.1&bitm_seo=14.5.0&bitm_sale=14.5.2&bitm_fileman=14.5.0&bitm_catalog=14.5.3&bitm_pull=14.1.6&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N
+2014-08-28 15:57:01 -  - exec CUpdateClient::GetHTTPPage
+2014-08-28 15:57:02 -  - TIME GetUpdatesList(request) 0.246 sec
+2014-08-28 15:57:02 -  - exec CUpdateClient::ParseServerData
